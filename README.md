@@ -1,4 +1,4 @@
-<img src = "https://designisorion.com/wp-content/uploads/2020/04/Forde-Text-Editor-980x551.png " />
+<img src = "https://designisorion.com/wp-content/uploads/2020/04/Forde-Text-Editor-980x551.png" />
 
 
 # Forde-Text-Editor
