@@ -1,6 +1,3 @@
-<img src = "https://designisorion.com/wp-content/uploads/2020/04/Forde-Text-Editor-980x551.png" />
-
-
 # Forde Text Editor
 
 ### About 
@@ -21,6 +18,8 @@ In this project, I was able to create a GUI that has features of NEW, Save, and 
 # Author: 
 Orion F.
 www.DesignIsOrion.com
+
+<img src = "https://designisorion.com/wp-content/uploads/2020/04/Forde-Text-Editor-980x551.png" />
 
 
 
