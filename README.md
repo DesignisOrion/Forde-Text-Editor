@@ -1,14 +1,28 @@
 <img src = "https://designisorion.com/wp-content/uploads/2020/04/Forde-Text-Editor-980x551.png" />
 
 
-# Forde-Text-Editor
+# Forde Text Editor
 
-Created a text editor using Python called: Forde Text
+### About 
+This project allows you to open a GUI with text editor features.
 
-The software has includes the basics of functionality such as Open, New File, Save As, Save, and Exit.
+### Technologies Used:
+- Python 3
+- Tkinter
 
-It only works in a terminal window using python3. I'll update for GUI at a later time.
+### What I learned:
+In this project, I was able to create a GUI that has features of NEW, Save, and Exit. I was able to learn much about how the Tkinter works with modules and file dialog option. I was able to learn the following:
 
-Enjoy!
+- Creating menu items
+- Creating menu actions
+- Sizing GUI window
+
+
+# Author: 
+Orion F.
+www.DesignIsOrion.com
+
+
+
 
 
